@@ -116,7 +116,7 @@
     "codecov": "3.8.1",
     "copyfiles": "2.4.1",
     "eslint": "7.27.0",
-    "eslint-config-prettier": "8.2.0",
+    "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "3.4.0",
     "has-flag": "4.0.0",
     "husky": "6.0.0",
